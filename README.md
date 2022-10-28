@@ -5,6 +5,9 @@
 
 This is a fully working Raytracer Engine made entirely from scratch only using Java
 
+### Example
+ <img src="Render.png" alt="Render" width="200" height="200">
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -31,6 +34,6 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nft_rshdd](https://twitter.com/nft_rshdd) - raschidllamas@hotmail.com
+Raschid Llamas Aun - [@nft_rshdd](https://twitter.com/nft_rshdd) - raschidllamas@hotmail.com
 
 Project Link: [https://github.com/rshdd/RaytracerEngine](https://github.com/rshdd/RaytracerEngine)
