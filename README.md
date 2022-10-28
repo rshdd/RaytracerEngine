@@ -6,7 +6,9 @@
 This is a fully working Raytracer Engine made entirely from scratch only using Java
 
 ### Example
- <img src="Render.png" alt="Render" width="200" height="200">
+<div style="text-align: center">
+    <img src="Render.png" alt="Render" width="500" height="500">
+</div>
 
 <!-- GETTING STARTED -->
 ## Getting Started
