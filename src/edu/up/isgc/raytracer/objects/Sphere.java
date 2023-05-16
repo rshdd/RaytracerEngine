@@ -13,7 +13,7 @@ import java.awt.*;
 
 /**
  * @author Jafet Rodríguez
- * @author Luis Ruiz
+ * @author Raschid Llamas
  * This class generates a sphere object.
  */
 public class Sphere extends Object3D {
