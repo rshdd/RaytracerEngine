@@ -7,7 +7,7 @@ package edu.up.isgc.raytracer.tools;
 import java.awt.*;
 
 /**
- * @author Luis Ruiz
+ * @author Raschid Llamas
  * This method defines specific object's information for posterior rendering work
  */
 public class Material {
