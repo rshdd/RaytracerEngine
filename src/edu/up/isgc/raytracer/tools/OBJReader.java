@@ -22,7 +22,7 @@ import java.util.logging.Logger;
 
 /**
  * @author Jafet Rodríguez
- * @author Luis Ruiz
+ * @author Raschid Llamas
  * This object reads the .obj file and proccess it's information for posterior rendering.
  */
 public abstract class OBJReader {
